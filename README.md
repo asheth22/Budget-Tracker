@@ -16,7 +16,8 @@ The Budget Tracker PWA has following features:
 - Easy to Use - The app is intiutive and very easy to use
 
 
-### Application Features
+### Mock-up
+![Budget-Tracker](https://user-images.githubusercontent.com/74203959/114592188-ae48e500-9c58-11eb-8c83-9c731f4f36a9.png)
 
 # License
 - see MIT License Copyright (c) 2020
