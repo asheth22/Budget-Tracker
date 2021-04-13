@@ -1,10 +1,14 @@
+'use strict'
+
+console.log('This is your service-worker.js file!');
+
 const FILES_TO_CACHE = [
-    `/`,
+    `/db.js`,
     `/index.html`,
     `/index.js`,
     `/index.css`,
     `/manifest.webmanifest`,
-    `/icons/money.png`
+    `/img/icons/money.png`
 ];
 
 const STATIC_CACHE = `static-cache-v1`;
