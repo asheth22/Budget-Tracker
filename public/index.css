@@ -3,13 +3,16 @@
 }
 
 .topheader {    
-    background-color: #39393b;
-    background-image: url("Header-Background.png");
+    background-color: #39393b;    
     border-bottom:#06eff7 solid 5px;       
     padding: 1rem 1rem;
     margin-bottom: 1rem;
     color: #06eff7
    
+  }
+
+  .heading {
+    text-align: center;
   }
 body {
     font-size: 16px;
